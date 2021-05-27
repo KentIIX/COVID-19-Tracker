@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Built witg React, Charts.JS and Material UI.
+Built with React, Charts.JS and Material UI.
 
 API used: https://covid19.mathdro.id/api
 
